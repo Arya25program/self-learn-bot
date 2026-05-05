@@ -101,6 +101,6 @@ The bot will store new questions automatically.
 ## Author 👨‍💻
 
 Arya Ramachandran
-Email: [your.email@example.com](mailto:aryatheauthor@gmail.com)
+Email: [aryatheauthor@gmail.com](mailto:aryatheauthor@gmail.com)
 
 ---
